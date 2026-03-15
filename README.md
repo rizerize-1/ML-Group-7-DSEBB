@@ -1,10 +1,10 @@
 # Temperature forecast in Ho Chi Minh City
 Machine Learning Project – Group 7
 
-**Project Overview**
+**Project Overview**  
 This project aims to build a machine learning model to forecast temperature in Ho Chi Minh City based on historical weather data. By applying data preprocessing, exploratory data analysis, and machine learning techniques, our goal is to develop a model that can predict future temperatures with reasonable accuracy.
 
-**Objectives**
+**Objectives**  
 The main objectives of this project are:
 - Collect and analyze historical temperature data.
 - Perform data cleaning and preprocessing.
